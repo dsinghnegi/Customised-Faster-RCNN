@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>imgs/</folder>
+	<filename>fish001.jpg</filename>
+	<path>fish001.jpg</path>
+	<size>
+		<width>410</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
